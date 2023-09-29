@@ -1,1 +1,2 @@
-# Health-Insurance-Charges-Prediction
+### Dataset Information
+This dataset comprises information about different individuals, encompassing six features, a mix of numerical and categorical variables. These attributes are utilized to predict the yearly health insurance charges for these individuals, with the charges recorded in the "charges" column, measured in thousands of dollars. The objective is to make charge estimations based on these six features.
